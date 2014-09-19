@@ -1,6 +1,6 @@
 === Noindex Links ===
 Contributors: flector
-Tags: noindex, yandex, nofollow
+Tags: noindex, yandex, nofollow, wp-noindex
 Requires at least: 2.3
 Tested up to: 4.0
 Stable tag: 2.00
@@ -13,7 +13,7 @@ Stable tag: 2.00
 
 Яндекс давно уже учитывает "nofollow" атрибут у ссылок, но среди SEO-специалистов бытует мнение, что полностью игнорировать ссылки Яндекс будет только, если они заключены в noindex теги (в пользу этой теории говорит появление в последнее время нескольких бирж по продаже nofollow-комментариев). 
 
-В версии плагина 2.00 простые теги &lt;noindex&gt;&lt;/noindex&gt; заменены на валидные эквиваленты &lt;!--noindex--&gt;&lt;!--/noindex--&gt;.
+В версии плагина 2.00 простые теги &lt;noindex&gt;&lt;/noindex&gt; заменены на валидные эквиваленты &lt;!--noindex--&gt;&lt;!--/noindex--&gt;. Более подробную информацию вы найдете на [странице плагина](http://www.wordpressplugins.ru/seo/wp-noindex.html).
 
 == Installation ==
 
