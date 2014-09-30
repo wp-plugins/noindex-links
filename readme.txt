@@ -19,6 +19,7 @@ Stable tag: 2.00
 Если вам понравился мой плагин, то `пожалуйста` поставьте ему 5 звезд.
 
 Другие мои плагины:
+
 - [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - классный виджет вывода облака меток.
 - [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - спойлер в стиле rutracker.org. 
 - [Hide My Dates](http://wordpress.org/plugins/hide-my-dates/) - плагин скрывает даты в записей от гугла. 
