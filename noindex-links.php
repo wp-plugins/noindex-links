@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Noindex Links
-Plugin URI: Author URI: http://wordpress.org/plugins/noindex-links/
+Plugin URI: Author URI: http://www.wordpressplugins.ru/seo/wp-noindex.html
 Description: Плагин заключает любые ссылки в комментариях в теги &lt;noindex&gt;&lt;/noindex&gt;, что запрещает их индексацию Яндексом.
 Version: 2.00
 Author: Flector
-Author URI: http://wordpress.org/plugins/noindex-links/
+Author URI: https://profiles.wordpress.org/flector#content-plugins
 */ 
 
 function wp_noindex($comment) {
