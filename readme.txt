@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: http://goo.gl/uhnS7k
 Tags: wp-noindex, noindex, yandex, nofollow
 Requires at least: 2.3
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: trunk
 
 Плагин заключает любые ссылки в комментариях в теги &lt;noindex&gt;&lt;/noindex&gt;.
